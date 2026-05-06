@@ -23,7 +23,7 @@ A complete offline Point-of-Sale system for BurgeyJay restaurant.
 
 ### 1. Install MySQL
 Download and install MySQL from: https://dev.mysql.com/downloads/installer/
-- Root password: admin123
+- Root password: @101402Akamaru01
 - Port: 3306
 - Choose Legacy Authentication Method
 
