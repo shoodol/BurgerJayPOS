@@ -35,7 +35,7 @@ Download and install MySQL from: https://dev.mysql.com/downloads/installer/
 ### 3. Run the POS
 1. Make sure MySQL is running
 2. Double-click `BurgerJayPOS.exe`
-3. Login as admin: `admin` / `@101402Akamaru01`
+3. Login as admin: `admin` / `admin123`
 
 ## Default Login
 | Role   | Username | Password          |
